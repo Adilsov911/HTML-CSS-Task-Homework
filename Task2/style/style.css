@@ -1,0 +1,117 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+a{
+    text-decoration: none;
+}
+#First{
+    background-color: #212529;
+    padding: 0.5rem 0;
+    
+}
+ 
+#First h1{
+    margin-left: 16px;
+    color: #fff;
+    
+    padding: 5px 0;
+    font-size: 20px;
+}
+#Second{
+    background-color:#267DFD;
+    padding: 10rem;
+    text-align: center;
+    
+}
+#Second h1{
+    color:#fff ;
+    font-size: 40px;
+    margin-bottom: 0.5rem;
+    font-style:inherit;
+
+}
+#Second h2{
+    color: #fff;
+    font-size: 20px;
+    margin: 0 0 40px;
+}
+#Second a{
+    color: black;
+    background-color: #fff;
+    font-size: 20px;
+    padding: 12px 24px;
+    border-radius: 5px;
+}
+#Third{
+    
+    padding: 1.5rem;
+    background-color: #fff;
+}
+#Third h1{
+    font-size: 42px;
+    margin-left: 35rem;
+    margin-top: 5rem;
+    margin-bottom: 8px;
+}
+#Third p{
+    margin-left: 35rem;
+    font-size: 22px;
+    margin-bottom: 10px;
+}
+ul li{
+    list-style-position: inside;
+    margin-left: 37rem;
+    font-size: 20px;
+    margin-bottom: 0.5rem;
+    
+}
+ul .end_li{
+    margin-bottom: 8rem;
+}
+#Fourth{
+   background-color: #F8F9FA;
+    padding: 1rem;
+    
+}
+#Fourth h1{
+    font-size: 42px;
+    margin-left: 35rem;
+    margin-top: 8rem;
+    margin-bottom: 8px;
+}
+#Fourth p{
+
+    margin-left: 35rem;
+    font-size: 22px;
+    margin-bottom: 8rem;
+    
+}
+#Five{
+    background-color: #fff;
+    padding: 1rem;
+}
+#Five h1{
+    font-size: 42px;
+    margin-left: 35rem;
+    margin-top: 8rem;
+    margin-bottom: 8px;
+}
+#Five p{
+
+    margin-left: 35rem;
+    font-size: 22px;
+    margin-bottom: 8rem;
+    
+}
+#End{
+    text-align: center;
+    background-color: #212529;
+    padding: 3rem;
+}
+#End h1{
+color: #fff;
+font-size: 16px;
+}
+
+

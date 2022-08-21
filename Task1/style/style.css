@@ -1,0 +1,123 @@
+*{
+    margin: 0;
+    padding: 0;
+
+}
+a{
+    text-decoration: none;
+}
+#First{
+    text-align: center;
+    background-image: url(https://startbootstrap.github.io/startbootstrap-stylish-portfolio/assets/img/bg-masthead.jpg);
+    padding: 16rem 0;
+   background-attachment: fixed;
+    background-size: cover;
+}
+#First h1{
+color: #212529;
+font-size: 88px;
+}
+#First h3{
+    color: #212529;
+    font-size: 28px;
+    margin-bottom: 60px;
+}
+#First a{
+    background-color: #1d809f;
+    padding: 20px 40px;
+    color: #fff;
+    font-size: 1rem;
+    border-radius: 5px;
+    font-weight: bold;
+    transition: .5s;
+}
+#First a:hover{
+    background-color: #0d5e77;
+    padding: 25px 50px;
+}
+#Second{
+    text-align: center;
+    padding: 5rem 0;
+}
+#Second h2{
+font-size: 2rem;
+color: #212529;
+}
+#Second p{
+    font-size: 20px;
+    color: #212529;
+    margin-bottom: 40px;
+}
+#Second .second_btn{
+    background-color: #212529;
+    padding: 20px 40px;
+    font-size: 1rem;
+    border-radius: 5px;
+    font-weight: bold;
+    color: #fff;
+}
+#Second p a{
+    text-decoration: underline;
+}
+#Third{
+    text-align: center;
+    background-image: url(https://startbootstrap.github.io/startbootstrap-stylish-portfolio/assets/img/bg-callout.jpg);
+    padding: 13rem 0;
+    background-size: cover;
+    background-position: center;
+    background-attachment: fixed;
+}
+#Third a{
+    background-color: #1d809f;
+    padding: 20px 40px;
+    color: #fff;
+    font-size: 1rem;
+    border-radius: 5px;
+    font-weight: bold;
+    transition: .5s;
+}
+#Third a:hover{
+    background-color: #0d5e77;
+    padding: 25px 50px;
+}
+#Third h3{
+    font-size: 56px;
+    color: #212529;
+    margin-bottom: 40px;
+}
+#Fourth{
+    text-align: center;
+    background-color: #1d809f;
+    padding: 5rem;
+}
+#Fourth h4{
+font-size: 2rem;
+color: #fff;
+margin-bottom: 40px;
+}
+.f_btn1{
+    background-color: #fff;
+    padding: 20px 40px;
+    color: black;
+    font-size: 1rem;
+    border-radius: 5px;
+    font-weight: bold;
+    transition: .5s;
+}
+.f_btn2{
+    background-color: #212529;
+    padding: 20px 40px;
+    color: #fff;
+    font-size: 1rem;
+    border-radius: 5px;
+    font-weight: bold;
+    transition: .5s;
+}
+.f_btn1:hover{
+    background-color: #56595a;
+    padding: 25px 50px;
+}
+.f_btn2:hover{
+    background-color: #707475;
+    padding: 25px 50px;
+}
